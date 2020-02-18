@@ -10,4 +10,4 @@ There were few techniques used, such as:
     Customers able to book from the chosen server.
     The bookings are synchronized.
     It solves the problem of selling the same ticket to multiple customers.
-    More details you can check in Documentation folder which contains project requirements and design document
+    More details you can check in Documentation folder which contains project requirements and design document.
