@@ -1,0 +1,18 @@
+
+
+
+module DFRS {
+
+	interface Booking{
+	
+		string bookFlight(in string firstName, in string lastName, in string address, in string phone, in string destination, in string date, in string classFlight);
+	
+		string getBookedFlightCount(in string recordType);
+	
+		string editFlightRecord(in string recordID, in string fieldName, in string newValue);
+		
+		string transferReservation(in string passengerID, in string currentCity, in string otherCity);
+	
+	};
+	
+};

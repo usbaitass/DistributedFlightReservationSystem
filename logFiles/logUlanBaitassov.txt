@@ -1,0 +1,1 @@
+Mon Nov 07 20:55:59 EST 2016::BOOKING SUCCESSFULL: Your record id: 1478570159604 Name: Ulan Baitassov Departure-Destination: Montreal - Washington Date: 07November2016 Time: 20:30 flightclass: economy
