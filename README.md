@@ -1,4 +1,4 @@
-# DistributedAirplaneBooking
+# Distributed Flight Reservation System
 
 This project is based on Airplane Ticket Booking.
 
